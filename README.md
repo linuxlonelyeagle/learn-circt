@@ -8,6 +8,7 @@ $ git submodule update --init --recursive
 ```
 Next, you can check [here](https://github.com/llvm/circt#setting-this-up) to build LLVM and CIRCT.
 ### Examples
+You can use the makefile to run example.
 ```
 $ cd examples
 $ make xxx
