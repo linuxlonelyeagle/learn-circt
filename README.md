@@ -6,6 +6,7 @@ The main purpose of this project is to learn how to use circt and to provide som
 $ git clone git@github.com:linuxlonelyeagle/learn-circt.git
 $ git submodule update --init --recursive 
 ```
+Next, you can check [here](https://github.com/llvm/circt#setting-this-up) to build LLVM and CIRCT.
 ### Examples
 ```
 $ cd examples
