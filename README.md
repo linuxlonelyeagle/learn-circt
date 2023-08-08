@@ -1,1 +1,13 @@
-# learn-circt
+# Learn-circt
+The main purpose of this project is to learn how to use circt and to provide some examples for reference.It seems rather limited at the moment,hopefully there will be more and more to come.
+## Getting Started
+### Clone and Initialize
+```
+$ git clone git@github.com:linuxlonelyeagle/learn-circt.git
+$ git submodule update --init --recursive 
+```
+### Examples
+```
+$ cd examples
+$ make xxx
+```
