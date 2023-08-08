@@ -8,4 +8,4 @@ calyx-single-component-export-verilog:
 		-convert-fsm-to-sv -lower-hw-to-sv -lower-seq-to-sv \
 		-lower-hwarith-to-hw -hw-specialize -hw-cleanup -cse \
 		-canonicalize -hw-legalize-modules -prettify-verilog \
-		-export-verilog -o log.v
+		-export-verilog > log.sv
