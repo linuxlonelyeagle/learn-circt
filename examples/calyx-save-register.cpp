@@ -1,6 +1,5 @@
 #include "Vsave__02dregister.h"
 #include "verilated_vcd_c.h"
-#include <memory>
 #include <iostream>
 
 int main() {
